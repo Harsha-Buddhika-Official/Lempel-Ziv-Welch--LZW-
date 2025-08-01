@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Compile and Run LZWDecompressor",
+			"command": "javac DecompressionResult.java LZWDecompressor.java && java Decompressor.LZWDecompressor",
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
