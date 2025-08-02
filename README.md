@@ -139,3 +139,5 @@ This project is open source and available under the MIT License.
 ## Author
 
 This implementation was created as an educational project to demonstrate the LZW compression algorithm in Java.
+
+created by harsha buddhika
